@@ -29,7 +29,7 @@ I provide the online review on the [wiki page](https://github.com/ireia/CNOSL/wi
 
 #### Notice
 
-**Please noted that: you are free to share and adapt all Chinese texts and other original texts (hereinafter the Work) under this Repository, but you must give appropriate credit, provide a link to this repository, and indicate if you modified the material and retain an indication of previous modifications while you share or adapt the Work. You must not use the Work or any material derived from the Work for commercial purposes unless otherwise agreed by me in written from.  If you adapt(remix, transform, or build upon) the Work, you must distribute your contributions under the same license as the original.**
+**Please noted that: you are free to share and adapt all Chinese texts and other original texts (hereinafter the Work) under this Repository, but you must give appropriate credit, provide a link to this repository, and indicate if you modified the material and retain an indication of previous modifications while you share or adapt the Work. You must not use the Work or any material derived from the Work for commercial purposes unless otherwise agreed by me in written form.  If you adapt(remix, transform, or build upon) the Work, you must distribute your contributions under the same license as the original.**
 
 **All Chinese texts and other original texts under this repository apply [CC BY-NC-SA 4.0 (Attribution-Non Commercial-Share Alike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
 
