@@ -16,7 +16,7 @@ CNOSL是“CN Open-source Licenses”的缩写,该项目旨在制作并为大家
 目前我计划从翻译[GNU通用公共许可协议v3](https://www.GNU.org/licenses/gpl-3.0.html)开始这个项目。作为较难理解且具有代表性的一个开源协议，我相信帮助大家读懂GPL协议将帮助各位打开理解开源世界的大门。在我将中文版GPL协议翻译完成后，我将继续翻译其他自由软件许可协议和开源协议。所有翻译将更新在该Repository的[wiki页面](https://github.com/ireia/CNOSL/wiki)上，并同时在此页面中提供.docx（word文档）文件。
     
     
-> 现已完成GPL协议第三版（GNU General Public License v3）前言及正文的翻译工作
+> 现已完成GPL协议第三版（GNU General Public License v3）的翻译工作
 > 中英对照版详见：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3_EN&CN)
 
   
@@ -24,7 +24,7 @@ CNOSL是“CN Open-source Licenses”的缩写,该项目旨在制作并为大家
 
 由于该项目由仅有我一人发起和实施，个人时间和精力有限，翻译的内容难免会出现疏漏。如果大家看到翻译的文本中存什么问题，请及时向我反映，我会根据大家的反馈对文本中的错误进行纠正。文本中的很多表达为了防止表意不严谨可能会发生不符合中文语言习惯的问题，也希望大家能够对中文文本的表达提出意见，帮助我完善中文文本，使其在保证含义准确的基础上更加可读。
 
-请大家不要吝惜批评和指正，在Issues页面中为我指出上述问题，当然，有任何问题也可以通过本页面最下方的Email联系我。
+请大家不要吝惜批评和指正，在[Issues页面](https://github.com/ireia/CNOSL/issues)中为我指出上述问题，当然，有任何问题也可以通过本页面最下方的Email联系我。
 
 ------------
 
@@ -40,14 +40,15 @@ Therefore, I initiated this Project, to provided a professional and tailored tra
   
 I intend to start this Project with the translation of [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html). As a difficult and representative texts,I believe go through GPL License thoroughly will open the gate for you to understanding the open-source world. After completion of my version of GPL License translation in Chinese, I'll continue to translate other free software licenses and open-source licenses. All translations will be updated on the [wiki page](https://github.com/ireia/CNOSL/wiki) of this repository, and .docx file will also be provided in this page.
     
-> Bilingual version of GPLv3(English & Chinese, main clauses finished), please see：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3_EN&CN)
+> Bilingual version of GPLv3(English & Chinese, finished), please see：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3_EN&CN)
 
 This Repository will provide .docx file for your convenience, and you can view all texts on the [wiki page](https://github.com/ireia/CNOSL/wiki) of this Repository. Notes, footnotes, etc. will be included in the .docx version, so that you can deepen your understanding of the agreement. If you need it, I will also consider the production of annotated version in the future.
 
 As the project is initiated and implemented by me alone, with my limited personal time and energy, it is inevitable that there will be omissions in the translations. If you see any problems in the translated texts, please inform me, and I will correct the errors in the texts according to your feedback. Many expressions may not conform to the Chinese language habits in order to prevent the ambiguities. I also hope that you can put forward opinions on the wordings, help me improve the Chinese text, and make it more readable on the basis of ensuring accurate meaning.
 
 
-Please don't grudge criticism and correction and point out any problem on the issues page. Of course. If you have any problems, you can contact me through the email at the bottom of this page.
+Please don't grudge criticism and correction and point out any problem on the [Issues page](https://github.com/ireia/CNOSL/issues). Of course. If you have any problems, you can contact me through the email at the bottom of this page.
+
 ------------
 
 #### Notice
