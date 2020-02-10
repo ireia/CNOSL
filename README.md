@@ -24,7 +24,7 @@ CNOSL是“CN Open-source Licenses”的缩写,该项目旨在制作并为大家
 
 由于该项目由仅有我一人发起和实施，个人时间和精力有限，翻译的内容难免会出现疏漏。如果大家看到翻译的文本中存什么问题，请及时向我反映，我会根据大家的反馈对文本中的错误进行纠正。文本中的很多表达为了防止表意不严谨可能会发生不符合中文语言习惯的问题，也希望大家能够对中文文本的表达提出意见，帮助我完善中文文本，使其在保证含义准确的基础上更加可读。
 
-请大家不要吝惜批评和指正，在[Issues页面](https://github.com/ireia/CNOSL/issues)中为我指出上述问题，当然，有任何问题也可以通过本页面最下方的Email联系我。
+如发现任何问题或有任何建议，可以在在[Issues页面](https://github.com/ireia/CNOSL/issues)上进行讨论，当然，有任何问题也可以通过本页面最下方的Email联系我。
 
 ------------
 
@@ -47,11 +47,7 @@ This Repository will provide .docx file for your convenience, and you can view a
 As the project is initiated and implemented by me alone, with my limited personal time and energy, it is inevitable that there will be omissions in the translations. If you see any problems in the translated texts, please inform me, and I will correct the errors in the texts according to your feedback. Many expressions may not conform to the Chinese language habits in order to prevent the ambiguities. I also hope that you can put forward opinions on the wordings, help me improve the Chinese text, and make it more readable on the basis of ensuring accurate meaning.
 
 
-<<<<<<< HEAD
-Please don't grudge criticism and correction and point out any problem on the [Issues page](https://github.com/ireia/CNOSL/issues). Of course. If you have any problems, you can contact me through the email at the bottom of this page.
-=======
-Please don't grudge criticism and correction and point out any problem on the issues page. Of course. If you have any problems, you can contact me through the email at the bottom of this page.
->>>>>>> 1221f011a1f962a4c27abfba2bc326d0e20978ae
+If you find any problem or have any suggestion, please discuss on the [Issues page](https://github.com/ireia/CNOSL/issues). Of course. If you have any problems, you can contact me through the email at the bottom of this page.
 
 ------------
 
