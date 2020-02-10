@@ -48,6 +48,7 @@ As the project is initiated and implemented by me alone, with my limited persona
 
 
 Please don't grudge criticism and correction and point out any problem on the issues page. Of course. If you have any problems, you can contact me through the email at the bottom of this page.
+
 ------------
 
 #### Notice
