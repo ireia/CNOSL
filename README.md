@@ -13,7 +13,7 @@ CNOSL是“CN Open-source Licenses”的缩写,该项目旨在制作并为大家
 因此，为了提供专业、细致的开源许可协议的翻译，以便开发者、学者以及法律从业者等对开源协议等知识产权问题感兴趣的人获取可用于学习和研究的材料，我决定发起CNOSL这个项目。
 
 
-目前我计划从翻译[GNU通用公共许可协议v3](https://www.GNU.org/licenses/gpl-3.0.html)开始这个项目。作为较难理解且具有代表性的一个开源协议，我相信帮助大家读懂GPL协议将帮助各位打开理解开源世界的大门。在我将中文版GPL协议翻译完成后，我将继续翻译其他自由软件许可协议和开源协议。所有翻译将更新在该Repository的[wiki页面](https://github.com/ireia/CNOSL/wiki)上，并同时在此页面中提供.docx（word文档）文件。
+目前我计划从翻译[GNU通用公共许可协议v3](https://www.GNU.org/licenses/gpl-3.0.html)开始这个项目。作为较难理解且具有代表性的一个开源协议，我相信帮助大家读懂GPL协议将帮助各位打开理解开源世界的大门。在我将中文版GPL协议翻译完成后，我将继续翻译其他自由软件许可协议和开源协议。
     
     
 > 现已完成GPL协议第三版（GNU General Public License v3）的翻译工作
@@ -38,7 +38,7 @@ Open-source licenses are contracts, and its language musht be unemotional, rigor
 
 Therefore, I initiated this Project, to provided a professional and tailored translation of open-source licenses so that developers, scholars, legal professionals, and other individuals who share interest in open-source license related intellectual property rights so that they could obtain usable materials for their study and research. 
   
-I intend to start this Project with the translation of [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html). As a difficult and representative texts,I believe go through GPL License thoroughly will open the gate for you to understanding the open-source world. After completion of my version of GPL License translation in Chinese, I'll continue to translate other free software licenses and open-source licenses. All translations will be updated on the [wiki page](https://github.com/ireia/CNOSL/wiki) of this repository, and .docx file will also be provided in this page.
+I intend to start this Project with the translation of [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html). As a difficult and representative texts,I believe go through GPL License thoroughly will open the gate for you to understanding the open-source world. After completion of my version of GPL License translation in Chinese, I'll continue to translate other free software licenses and open-source licenses. 
     
 > Bilingual version of GPLv3(English & Chinese, finished), please see：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3_EN&CN)
 
