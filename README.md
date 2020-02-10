@@ -47,7 +47,11 @@ This Repository will provide .docx file for your convenience, and you can view a
 As the project is initiated and implemented by me alone, with my limited personal time and energy, it is inevitable that there will be omissions in the translations. If you see any problems in the translated texts, please inform me, and I will correct the errors in the texts according to your feedback. Many expressions may not conform to the Chinese language habits in order to prevent the ambiguities. I also hope that you can put forward opinions on the wordings, help me improve the Chinese text, and make it more readable on the basis of ensuring accurate meaning.
 
 
+<<<<<<< HEAD
 Please don't grudge criticism and correction and point out any problem on the [Issues page](https://github.com/ireia/CNOSL/issues). Of course. If you have any problems, you can contact me through the email at the bottom of this page.
+=======
+Please don't grudge criticism and correction and point out any problem on the issues page. Of course. If you have any problems, you can contact me through the email at the bottom of this page.
+>>>>>>> 1221f011a1f962a4c27abfba2bc326d0e20978ae
 
 ------------
 
