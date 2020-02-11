@@ -26,6 +26,8 @@ CNOSL是“CN Open-source Licenses”的缩写,该项目旨在制作并为大家
 
 如发现任何问题或有任何建议，可以在在[Issues页面](https://github.com/ireia/CNOSL/issues)上进行讨论，当然，有任何问题也可以通过本页面最下方的Email联系我。
 
+**您若需要复制、分发或使用相关文本，请先阅读下方的法律声明。**
+
 ------------
 
 CNOSL is the short for "CN Open-source Licenses". This project aims to produce and share accurate and readable translations of Open-source Licenses for everyone for learning and research purposes.
@@ -49,6 +51,9 @@ As the project is initiated and implemented by me alone, with my limited persona
 
 If you find any problem or have any suggestion, please discuss on the [Issues page](https://github.com/ireia/CNOSL/issues). Of course. If you have any problems, you can contact me through the email at the bottom of this page.
 
+**If you need to copy, distribute, or use related texts, please read the Notice below first.**
+
+
 ------------
 
 #### Notice
@@ -59,7 +64,7 @@ If you find any problem or have any suggestion, please discuss on the [Issues pa
 
 #### 申明
 
-**请注意：您可以自由地共享和改编本Repository下的所有中文文本和其他非第三方文本（以下简称“作品”），但您必须进行署名，提供指向本Repository的链接，并在共享或改编本作品时指明您是否修改了材料，并对修改进行标注。除非另经书面同意，否则您不得将本作品或根据本作品产生的任何材料用于商业目的。如果您改编（混合、转换或在此基础上创作）作品，则必须在与原原始作品相同的许可下分发您的作品。**
+**请注意：您可以自由地共享和改编本Repository下的所有中文文本和其他非第三方文本（以下简称“作品”），但您必须进行署名，提供指向本Repository的链接，并在共享或改编本作品时指明您是否修改了材料，并对修改进行标注。除非另经书面同意，否则您不得将本作品或根据本作品产生的任何材料用于商业目的。如果您改编（混合、转换或在此基础上创作）本作品，则必须在与原始作品相同的许可下分发您的内容。**
 
 **本Repository下的所有中文文本以及其他非第三方文本适用[署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)版知识共享协议](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
 
@@ -67,4 +72,4 @@ If you find any problem or have any suggestion, please discuss on the [Issues pa
 
 Contact me if you have any suggestion or question:
 
-> qinpengfei@debund.com | Ireia
+> Qin Pengfei | chinpengfei@outlook.com
