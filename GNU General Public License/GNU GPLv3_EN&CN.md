@@ -433,15 +433,15 @@ Nothing in this License shall be construed as excluding or limiting any implied 
 
 ### 12. No Surrender of Others' Freedom.
 
-### 12. 不得牺牲他人自由
+### 12. 不得弃置他人的自由
 
 If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example, if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program, the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.
 
 如果对你施加的条件（无论是通过法院命令、协议或其他方式）与本协议规定的条件相矛盾，其并不会免除你遵守本协议所设条件的义务。如果你在转发受保护的作品时无法同时满足本协议所设义务和其他相关义务，你则不得进行转发。例如，如果你同意了你有义务就向程序的转发对象就转发收取版税的条款，唯一能同时满足该义务和本协议规定的做法即为完全避免对本程序的转发。
 
-13. Use with the GNU Affero General Public License.
+### 13. Use with the GNU Affero General Public License.
 
-13. 与GNU Affero通用公共许可协议的兼容
+### 13. 与GNU Affero通用公共许可协议的兼容
 
 Notwithstanding any other provision of this License, you have permission to link or combine any covered work with a work licensed under version 3 of the GNU Affero General Public License into a single combined work, and to convey the resulting work. The terms of this License will continue to apply to the part which is the covered work, but the special requirements of the GNU Affero General Public License, section 13, concerning interaction through a network will apply to the combination as such.
 
@@ -471,4 +471,104 @@ Later license versions may give you additional or different permissions. However
 
 ### 15. 免责声明
 
-THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWIS
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+在所适用的法律允许的范围内，本程序不存在任何的保证。除非另有书面声明，著作权人和/或其他当事人“现以”不做出任何种类的、明示或默示的保证的方式提供本程序，包括但不限于对可销售性和适用于特定目的的默示保证。本程序质量与性能的一切风险均应由你自行承担。如果程序被证明有缺陷，您应承担所有必要的维护、修理或修正费用。
+
+### 16. Limitation of Liability.
+
+### 16. 责任限制
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+在任何情况下，除非所适用的法律要求或经书面同意，否则任何著作权人或任何根据上述条款修改和/或转发程序的其他当事人均不对你承担损害赔偿责任，包括任何因使用或无法使用本程序而产生的一般的、特殊的、附带或间接损害赔偿（包括但不限于数据丢失、数据篡改、你或第三方遭受的损失或者程序无法与其他任何程序共同运行），即使该著作权人或其他当事人已被告知此类损害的可能性。
+
+### 17. Interpretation of Sections 15 and 16.
+
+### 17. 第15、16条的解释
+If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
+
+如果前述免责声明和责任限制的条款无法获得当地法律效力，审查的法院应当适用最接近于放弃有关本程序的民事责任的本地法律规定，除非程序副本为其附带的保证或者责任承诺收费。
+
+
+***
+
+
+### How to Apply These Terms to Your New Programs
+
+### 如何将上述条款适用于你的新程序中
+
+If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.
+
+如果你开发了一个新程序，并希望它尽最大限度为公众所使用，最好的办法就是使你的程序成为任何人可以根据本协议再分发和修改的自由软件。
+
+To do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.
+
+为此，可以在程序中附上以下声明。将声明附在每个源文件的开头以有效做出免责说明是最保险的做法；并且每个文件应该有一行版权声明行，并指向可以找到完整声明的页面。
+
+```<one line to give the program's name and a brief idea of what it does.>
+    Copyright (C) <year>  <name of author>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+    <在本行写明程序名称及程序功能简介>
+    Copyright (C) <年份>  <作者名称>
+
+    本程序为自由软件：你可以根据自由软件基金会发布的
+    GNU通用公共许可协议第三版或者更新的版本（任选）
+    的规定对本程序进行再分发和/或修改。 
+
+    我们希望分发的这款程序对你是有用的，但是我们不提
+供任何保证；也不提供任何对可销售性和适用于特定目
+的的默示保证。详情请查阅GNU通用公共许可协议。
+
+    你应已随同本程序收到一份GNU通用公共许可协议的副本，
+如未收到，请查阅<http://www.gnu.org/licenses/>
+```
+
+Also add information on how to contact you by electronic and paper mail.
+
+你也可以将你的联系信息放在电子或纸质的邮件中。
+
+If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
+
+如果程序会进行终端交互，当程序在交互模式下启动时，让程序输出如下简短声明：
+
+```
+  <program>  Copyright (C) <year>  <name of author>
+
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+
+    <程序名称>  Copyright (C) <年份>  <作者名称 >
+
+    本程序绝不提供保证；更多详情请输入’show w’查看。
+    这是一款自由软件，欢迎你在符合特定条件的情况下对
+本程序进行再分发；更多详情请输入’show c’查看.
+
+```
+
+The hypothetical commands `show w' and `show c' should show the appropriate parts of the General Public License. Of course, your program's commands might be different; for a GUI interface, you would use an “about box”.
+
+上面的声明假定 “ show w”和“ show c” 命令会显GPL协议的相应部分。 当然，你的程序中的命令可以是不同的；在GUI界面中，你可以使用“关于”选项。
+
+You should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see <http://www.gnu.org/licenses/>.
+
+如有必要，你还应当让你的雇主（如果你是受雇的程序员）或学校，如有，签署一份“放弃版权声明”。关于这一点的更多详情，以及如何使用和遵守GNU GPL协议，请参考<http://www.gnu.org/licenses/>。
+
+
+The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
+本GNU通用公共许可协议不允许将你的程序并入专有程序的行为。 如果你的程序是一个子程序库，更好的考虑是允许专有应用程序与该库进行链接，如果你确实希望允许此种情况，可以使用GNU Lesser General Public License（GNU较宽松通用公共许可协议，LGPL）而非本协议。但还请事先查阅<http://www.gnu.org/philosophy/why-not-lgpl.html>。
